@@ -3,7 +3,7 @@
 #### I'm a Javascript enthusiast
 
 - 🌱 I’m currently learning everything concerning javascript,react and node js 🤣
-- 🥅 2022 Goals: C, learn web3.0, data visualization and Golang
+- 🥅 2022 Goals: C, learn web3.0, GraphQL and ReactNative
 - ⚡ Fun fact: I love to and play games and watch football
 
 ```javascript
