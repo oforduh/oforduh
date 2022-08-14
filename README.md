@@ -9,17 +9,17 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: ["Javascript", "React", "Nodejs", "CSS","Python"],
+   code: ["Javascript", "React", "Nodejs", "CSS"],
    technologies: {
       frontEnd: {
          js: ["React",
          css: ["Scss", "Bootstrap", "Material UI", "Tailwind"]
       },
       backEnd: {
-         js: ["Node", "Express", ],
+         js: ["Node js", "Express js"],
       },
       databases: ["MongoDB"],
-      mobile: ["ReactNative", "IOS"],
+      mobile: ["ReactNative",],
       hosting_and_deployment: ["Heroku", "Firebase", "Netlify", "render-web", "Github"],
     
       architecture: ["microservices", "event-driven", "design system pattern", "single page applications"],
