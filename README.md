@@ -9,7 +9,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: ["Javascript","Typescript","React", "Nodejs", "CSS"],
+   code: ["Javascript","Typescript","Web3","React", "Nodejs", "CSS"],
    technologies: {
       frontEnd: {
          js: ["React",
@@ -58,12 +58,29 @@ const aboutMe = {
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubeanyiam&layout=compact)](https://github.com/ebubeanyiam/github-readme-stats) 
+
+<br />
+
+<img alt="Ofordu Harrison's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oforduh&show_icons=true" /> &nbsp;
+
+<br />
+
 #### Connect with me:
 
 [<img align="left" alt="ofordu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="oforduhh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+[<img align="left" alt="ebubeanyiam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ebubeanyiam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://oforduh.github.io
+[website]: https://https://oforduh.github.io
 [twitter]: https://twitter.com/oforduhh
+<!-- [instagram]: https://instagram.com/anyiamebube_ -->
+[linkedin]: https://linkedin.com/in/ofordu-harrison
+
+
+#### Connect with me:
+
 
