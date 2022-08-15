@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything concerning javascript,react and node js 🤣
 - 🥅 2022 Goals: C, learn web3.0, GraphQL and ReactNative
-- ⚡ Fun fact: I love to and play games and watch football
+- ⚡ Fun fact: I love to play video games and watch football matches
 
 ```javascript
 const aboutMe = {
