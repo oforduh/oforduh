@@ -57,7 +57,7 @@ const aboutMe = {
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubeanyiam&layout=compact)](https://github.com/ebubeanyiam/github-readme-stats) 
 
@@ -73,13 +73,11 @@ const aboutMe = {
 [<img align="left" alt="oforduhh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="=oforduhh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="oforduhh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://https://oforduh.github.io
 [twitter]: https://twitter.com/oforduhh
 [linkedin]: https://linkedin.com/in/ofordu-harrison
 
 
-#### Connect with me:
 
 
