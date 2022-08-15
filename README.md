@@ -31,8 +31,6 @@ const aboutMe = {
 
 ````bash
 > help --contact
-> linkedin: ofordu harrison
-> github: oforduh
 > mailto: oforduharrison@gmail.com
 ````
 
@@ -57,6 +55,9 @@ const aboutMe = {
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br />
+
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oforduh&layout=compact)](https://github.com/oforduh/github-readme-stats) 
@@ -71,8 +72,8 @@ const aboutMe = {
 
 [<img align="left" alt="ofordu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="oforduhh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
 [<img align="left" alt="=oforduhh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [website]: https://https://oforduh.github.io
 [twitter]: https://twitter.com/oforduhh
