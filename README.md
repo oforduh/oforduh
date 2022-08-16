@@ -1,8 +1,13 @@
-### Hi there, I'm Ofordu Harrison 👋 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+
+
+
+### Hi there, I'm Ofordu Harrison <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 #### I'm a Javascript enthusiast
 
-- 🌱 I’m currently learning everything concerning javascript,react and node js 🤣
+- 🌱 I’m currently learning everything concerning javascript,web3,typescript,react and node js 🤣
 - 🥅 2022 Goals: C, learn web3.0, GraphQL and ReactNative
 - ⚡ Fun fact: I love to play video games and watch football matches
 
