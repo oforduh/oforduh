@@ -68,6 +68,19 @@ const aboutMe = {
 
 <br />
 
+<p>
+    <a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=oforduh&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<br />
+
+<a><img alt="Oforduh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oforduh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+<br/>
+
 #### Connect with me:
 
 [<img align="left" alt="ofordu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
