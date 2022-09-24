@@ -28,7 +28,7 @@ const aboutMe = {
       hosting_and_deployment: ["Heroku", "Firebase", "Netlify", "render-web", "Github"],
     
       architecture: ["microservices", "event-driven", "design system pattern", "single page applications"],
-      misc: ["Firebase", "Send Grid", "Cloudinary",]
+      misc: ["Firebase", "SendGrid", "SendingBlue","Cloudinary",]
    },
    currentOccupation: ["Software Engineer at C80 Limited"],
 };
