@@ -21,7 +21,8 @@ const aboutMe = {
          css: ["Scss", "Bootstrap", "Material UI", "Tailwind"]
       },
       backEnd: {
-         js: ["Node js", "Express js"],
+         js: ["Node js", "Express js, Mongoose, Express-validator"],
+         Typescript: ["Node js", "Express js",Typegoose,Zod],
       },
       databases: ["MongoDB"],
       mobile: ["ReactNative",],
