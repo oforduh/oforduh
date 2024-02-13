@@ -14,18 +14,18 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: ["Javascript","Typescript","Web3","React", "Nodejs", "CSS"],
+   code: ["Typescript","Next js","Javascript","Nodejs","Typegoose"],
    technologies: {
       frontEnd: {
-         js: ["React",
-         css: ["Scss", "Bootstrap", "Material UI", "Tailwind"]
+         js: ["Next js","React"],
+         css: ["Scss","Mantine", "Bootstrap", "Material UI", "Tailwind"]
       },
       backEnd: {
-         js: ["Node js", "Express js, Mongoose, Express-validator"],
+         js: ["Node js", "Express js,Mongoose, Express-validator"],
          Typescript: ["Node js", "Express js",Typegoose,Zod],
       },
       databases: ["MongoDB"],
-      mobile: ["ReactNative",],
+      mobile: ["ReactNative","Expo",],
       hosting_and_deployment: ["Heroku", "Firebase", "Netlify", "render-web", "Github"],
     
       architecture: ["microservices", "event-driven", "design system pattern", "single page applications"],
