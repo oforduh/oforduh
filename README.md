@@ -22,7 +22,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node js", "Express js,Mongoose, Express-validator"],
-         Typescript: ["Node js", "Express js",Typegoose,Zod],
+         Typescript: ["Node js", "Express js","Typegoose","Zod"],
       },
       databases: ["MongoDB"],
       mobile: ["ReactNative","Expo",],
